@@ -1,5 +1,5 @@
 Project in OOP 
 Chery Mae Signar
 
-# run in git bash 
-$ php index.php
+# setup 
+Run in command Prompt type " $ php index.php "
